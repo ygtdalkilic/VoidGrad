@@ -1,0 +1,12 @@
+VoidGrad Educational License
+Copyright (c) 2026 [Your Name / GitHub Handle]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, and modify the Software strictly for personal learning, academic coursework, and non-commercial EDUCATIONAL PURPOSES only.
+
+RESTRICTIONS:
+1. COMMERCIAL USE PROHIBITED: This software, or any modified version of it, may not be used, distributed, sublicensed, or integrated into any commercial product, service, or monetized platform under any circumstances.
+2. RESEARCH PROHIBITED: This software may not be used for corporate, institutional, or private research purposes outside of standard academic coursework. Any use aimed at generating patents, proprietary algorithms, or academic papers requires explicit, prior written permission from the copyright holder.
+
+All other rights are expressly reserved by the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
